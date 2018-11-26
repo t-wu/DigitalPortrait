@@ -2,16 +2,32 @@
 <title>Data Portrait</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style>
+.parallax {
+    /* The image used */
+    background-image: url("imgs/Background.jpg");
 
-</style></head>
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+</head>
 
 <body>
-<div id="background" size = 100%>
-		<img src="DigitalPortrait/imgs/Background.jpg" />
-</div>
-<h1>Hi, I'm Tony </h1> 
-Welcome to my Self Data Portrait
+
+<p>Hi, I'm Tony </p> 
+<div class="parallax"></div>
+
+<div style="height:1000px;background-color:white;font-size:36px">
+Welcome to my Self Data Portrait</div>
+	
 <br>
 <br>
 
-</body></html>
+</body>
+</html>

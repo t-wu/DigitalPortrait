@@ -1,8 +1,8 @@
 ## Welcome to Tony's Digital Portrait
 
 
-![Image of the old self](DigitalPortrait/MosaicOld.PNG)
-![Image of the new self](DigitalPortrait/MosaicNew.png)
+![Image of the old self](https://github.com/t-wu/DigitalPortrait/blob/master/MosaicOld.png)
+![Image of the new self](https://github.com/t-wu/DigitalPortrait/blob/master/MosaicNew.png)
 
 ### Markdown
 
